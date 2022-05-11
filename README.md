@@ -2,7 +2,7 @@
 Dataset untuk machine learning dan analytics
 
 File-file dataset dari
-https://archive.ics.uci.edu/ml/datasets
-kaggle.com
+- https://archive.ics.uci.edu/ml/datasets
+- kaggle.com
 
 
