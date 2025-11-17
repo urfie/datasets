@@ -1,4 +1,4 @@
-TransactionID,CustomerID,ProductCategory,SalesPrice,Quantity,TransactionDate,Region,DISC04
+TransactionID,CustomerID,ProductCategory,SalesPrice,Quantity,TransactionDate,Region,DiscountCode
 TX3197,C106,BOOKS,22.19,1,2024-01-01,EAST,DISC04
 TR6692,C1086,FOOD,9.47,1,2024-01-01,CENTRAL,DISC04
 TRX611,C248,FOOD,14.15,1,2024-01-01,EAST,DISC04
