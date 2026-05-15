@@ -1,0 +1,76 @@
+order_id,tanggal,nama_pelanggan,kota,provinsi,platform,kategori,nama_produk,harga_satuan,jumlah,diskon_persen,ongkir,status_pesanan,metode_bayar,rating
+ORD-001,2024-01-03,Budi Santoso,Jakarta,DKI Jakarta,Tokopedia,Elektronik,Earbuds Wireless BT50,185000,2,10,0,Selesai,GoPay,5
+ORD-002,2024-01-04,Siti Rahayu,Surabaya,Jawa Timur,Shopee,Fashion,Batik Tulis Madura,320000,1,,15000,Selesai,COD,4
+ORD-003,2024-01-05,Ahmad Fauzi,Bandung,Jawa Barat,Tokopedia,Makanan,Kopi Arabika Gayo 500gr,95000,3,5,12000,Selesai,OVO,5
+ORD-004,2024-01-06,Dewi Kusuma,Medan,Sumatera Utara,Shopee,Kecantikan,Serum Vitamin C Lokal,145000,2,,8000,Selesai,ShopeePay,4
+ORD-005,2024-01-07,Rizky Pratama,Jakarta,DKI Jakarta,TikTok Shop,Elektronik,Powerbank 20000mAh,275000,1,15,0,Selesai,GoPay,5
+ORD-006,2024-01-08,Nur Aisyah,Yogyakarta,DI Yogyakarta,Tokopedia,Rumah Tangga,Wajan Anti Lengket 24cm,189000,1,,10000,Selesai,Transfer Bank,3
+ORD-007,2024-01-09,Hendra Wijaya,Semarang,Jawa Tengah,Tokopedia,Fashion,Kemeja Flanel Pria,135000,2,10,9000,Dibatalkan,COD,
+ORD-008,2024-01-10,Rina Marlina,Makassar,Sulawesi Selatan,Tokopedia,Kecantikan,Moisturizer SPF30,210000,1,,18000,Selesai,GoPay,4
+ORD-009,2024-01-11,Doni Setiawan,Palembang,Sumatera Selatan,TikTok Shop,Makanan,Rendang Kaleng Premium,85000,4,0,20000,Selesai,GoPay,5
+ORD-010,2024-01-12,Fitri Handayani,Depok,Jawa Barat,Shopee,Elektronik,Mouse Wireless Ergonomis,199000,1,5,0,Selesai,ShopeePay,4
+ORD-011,2024-01-13,Agus Salim,Bekasi,Jawa Barat,Tokopedia,Olahraga,Sepatu Running Lokal,425000,1,,12000,Selesai,Transfer Bank,5
+ORD-012,2024-01-14,,Surabaya,Jawa Timur,Shopee,Fashion,Hijab Sifon Premium,75000,3,10,8000,Selesai,COD,4
+ORD-013,2024-01-15,Bambang Eko,Tangerang,Banten,TikTok Shop,Rumah Tangga,Rak Buku Minimalis,350000,1,,15000,Selesai,GoPay,3
+ORD-014,2024-01-16,Yuni Astuti,Denpasar,Bali,Tokopedia,Kecantikan,Sunscreen SPF50 PA+++,165000,2,0,10000,Selesai,OVO,5
+ORD-015,2024-01-17,Iwan Gunawan,Bogor,Jawa Barat,Shopee,Elektronik,Kabel Data Fast Charging,45000,3,,0,Selesai,ShopeePay,3
+ORD-016,2024-01-18,Sri Wahyuni,Malang,Jawa Timur,Tokopedia,Makanan,Kerupuk Udang Sidoarjo,35000,5,0,14000,Selesai,COD,4
+ORD-017,2024-01-19,Rendi Kurniawan,Pekanbaru,Riau,TikTok Shop,Fashion,Jaket Denim Vintage,380000,1,20,22000,Selesai,GoPay,5
+ORD-018,2024-01-20,Mega Putri,,Jawa Timur,Tokopedia,Kecantikan,Lipstik Matte Lokal,89000,2,,8000,Dibatalkan,COD,
+ORD-019,2024-01-21,Fajar Nugroho,Balikpapan,Kalimantan Timur,Tokopedia,Elektronik,Smart Plug WiFi,125000,2,10,25000,Selesai,Transfer Bank,4
+ORD-020,2024-01-22,Ayu Lestari,Jakarta,DKI Jakarta,Shopee,Olahraga,Matras Yoga TPE 6mm,285000,1,5,0,Selesai,ShopeePay,5
+ORD-021,2024-01-23,Wahyu Hidayat,Banjarmasin,Kalimantan Selatan,TikTok Shop,Rumah Tangga,Blender Portable USB,155000,1,,28000,Selesai,GoPay,4
+ORD-022,2024-01-24,Nurul Fadilah,Padang,Sumatera Barat,Tokopedia,Makanan,Sambal Padang Homemade,55000,4,0,16000,Selesai,OVO,5
+ORD-023,2024-01-25,Eko Prasetyo,Semarang,Jawa Tengah,Shopee,Elektronik,Headset Gaming RGB,320000,1,15,0,Selesai,ShopeePay,4
+ORD-024,2024-01-26,Linda Sari,,Bali,Tokopedia,Fashion,Dress Boho Wanita,195000,1,10,10000,Selesai,Transfer Bank,4
+ORD-025,2024-01-27,Dedi Firmansyah,Pontianak,Kalimantan Barat,TikTok Shop,Kecantikan,Toner BHA Lokal,125000,1,,30000,Selesai,GoPay,3
+ORD-026,2024-01-28,Ani Subekti,Yogyakarta,DI Yogyakarta,Shopee,Rumah Tangga,Tempat Tidur Lipat,850000,1,5,35000,Selesai,Transfer Bank,5
+ORD-027,2024-01-29,Tono Hartono,Medan,Sumatera Utara,Tokopedia,Olahraga,Dumbbell Set 10kg,345000,1,,25000,Selesai,COD,4
+ORD-028,2024-01-30,Risa Amelia,Bekasi,Jawa Barat,TikTok Shop,Elektronik,Ring Light 10 inch,175000,1,0,0,Selesai,GoPay,5
+ORD-029,2024-01-31,Gilang Ramadhan,Bandung,Jawa Barat,Tokopedia,Fashion,Celana Cargo Pria,220000,1,10,9000,Dibatalkan,COD,
+ORD-030,2024-02-01,Hani Rosita,Surabaya,Jawa Timur,Tokopedia,Makanan,Pie Susu Bali,120000,2,0,14000,Selesai,OVO,4
+ORD-031,2024-02-02,Arif Budiman,Jakarta,DKI Jakarta,Shopee,Kecantikan,Masker Clay Charcoal,65000,3,5,0,Selesai,ShopeePay,4
+ORD-032,2024-02-03,Putri Anggraini,Malang,Jawa Timur,TikTok Shop,Elektronik,Stabilizer HP Gimbal,450000,1,10,0,Selesai,GoPay,5
+ORD-033,2024-02-04,Nanda Prasetya,Makassar,Sulawesi Selatan,Tokopedia,Rumah Tangga,Cermin Dinding Minimalis,275000,1,,20000,Selesai,Transfer Bank,3
+ORD-034,2024-02-05,Retno Wulandari,Tangerang,Banten,Shopee,Fashion,Sandal Anyam Wanita,95000,2,0,8000,Selesai,COD,4
+ORD-035,2024-02-06,Haris Munandar,Pekanbaru,Riau,TikTok Shop,Olahraga,Resistance Band Set,85000,2,,22000,Selesai,GoPay,5
+ORD-036,2024-02-07,Sinta Dewi,Bogor,Jawa Barat,Tokopedia,Makanan,Granola Homemade 500gr,110000,1,10,12000,Selesai,OVO,5
+ORD-037,2024-02-08,Bimo Saputro,Palembang,Sumatera Selatan,Shopee,Elektronik,Charger GaN 65W,285000,1,0,18000,Selesai,ShopeePay,4
+ORD-038,2024-02-09,,Denpasar,Bali,TikTok Shop,Kecantikan,Essence Niacinamide 10%,98000,2,,10000,Selesai,GoPay,4
+ORD-039,2024-02-10,Tari Oktaviani,Depok,Jawa Barat,Tokopedia,Rumah Tangga,Kursi Kerja Ergonomis,1250000,1,5,0,Selesai,Transfer Bank,5
+ORD-040,2024-02-11,Radit Nugroho,Semarang,Jawa Tengah,Shopee,Fashion,Kaos Oversize Polos,85000,5,0,9000,Selesai,COD,3
+ORD-041,2024-02-12,Mega Sari,Balikpapan,Kalimantan Timur,TikTok Shop,Elektronik,Speaker Bluetooth Mini,195000,1,10,25000,Selesai,GoPay,4
+ORD-042,2024-02-13,Wahyu Santoso,Jakarta,DKI Jakarta,Tokopedia,Olahraga,Skipping Rope Digital,75000,1,,0,Selesai,GoPay,4
+ORD-043,2024-02-14,Nita Kusuma,Surabaya,Jawa Timur,Shopee,Kecantikan,Cushion Foundation Lokal,145000,1,15,8000,Selesai,ShopeePay,5
+ORD-044,2024-02-15,Agung Prabowo,Bandung,Jawa Barat,TikTok Shop,Makanan,Coklat Monggo Assorted,185000,1,0,12000,Selesai,OVO,5
+ORD-045,2024-02-16,Citra Maharani,Yogyakarta,DI Yogyakarta,Tokopedia,Rumah Tangga,Lampu LED Strip 5m,95000,2,5,10000,Selesai,Transfer Bank,4
+ORD-046,2024-02-17,Rizal Anwar,Medan,Sumatera Utara,Shopee,Elektronik,Webcam HD 1080p,325000,2,,22000,Selesai,COD,3
+ORD-047,2024-02-18,Lia Rahmawati,Malang,Jawa Timur,TikTok Shop,Fashion,Rok Plisket Midi,165000,2,10,9000,Dibatalkan,GoPay,
+ORD-048,2024-02-19,Dimas Aditya,Bekasi,Jawa Barat,Tokopedia,Makanan,Tempe Chips Pedas,28000,6,0,12000,Selesai,OVO,4
+ORD-049,2024-02-20,Aulia Fitri,Makassar,Sulawesi Selatan,Shopee,Kecantikan,Lip Balm SPF Lokal,45000,3,5,18000,Selesai,ShopeePay,4
+ORD-050,2024-02-21,Ridwan Kamil,Tangerang,Banten,TikTok Shop,Elektronik,Lampu Gaming RGB,145000,2,20,0,Selesai,GoPay,5
+ORD-051,2024-02-22,Sari Indah,Pontianak,Kalimantan Barat,Tokopedia,Olahraga,Tas Gym Waterproof,275000,1,,30000,Selesai,Transfer Bank,4
+ORD-052,2024-02-23,Fadli Hasan,Banjarmasin,Kalimantan Selatan,Shopee,Rumah Tangga,Dispenser Galon Elektrik,385000,1,0,28000,Selesai,COD,3
+ORD-053,2024-02-24,Indah Permata,Padang,Sumatera Barat,TikTok Shop,Fashion,Mukena Renda Premium,285000,1,10,16000,Selesai,GoPay,5
+ORD-054,2024-02-25,Surya Bachtiar,Bogor,Jawa Barat,Tokopedia,Elektronik,SSD External 512GB,585000,1,5,0,Selesai,OVO,5
+ORD-055,2024-02-26,Winda Apriani,Pekanbaru,Riau,Shopee,Makanan,Keripik Singkong Balado,42000,4,0,22000,Selesai,ShopeePay,4
+ORD-056,2024-02-27,Guntur Wibowo,Jakarta,DKI Jakarta,TikTok Shop,Kecantikan,Facial Wash Salicylic,89000,2,,0,Selesai,GoPay,4
+ORD-057,2024-02-28,Harum Melati,Surabaya,Jawa Timur,Tokopedia,Rumah Tangga,Kipas Angin Meja USB,135000,1,0,14000,Selesai,Transfer Bank,3
+ORD-058,2024-03-01,Bagas Permana,Semarang,Jawa Tengah,Shopee,Elektronik,Earphone TWS Pro,255000,1,15,0,Selesai,COD,4
+ORD-059,2024-03-02,Tiara Novita,Bandung,Jawa Barat,TikTok Shop,Fashion,Tas Tote Canvas,125000,2,0,9000,Selesai,GoPay,5
+ORD-060,2024-03-03,Roni Setiawan,Depok,Jawa Barat,Tokopedia,Olahraga,Bola Basket Outdoor,185000,1,,12000,Selesai,OVO,4
+ORD-061,2024-03-04,Laila Fitria,Malang,Jawa Timur,Shopee,Makanan,Kue Kering Lebaran Box,175000,4,0,14000,Selesai,ShopeePay,5
+ORD-062,2024-03-05,Feri Susanto,Palembang,Sumatera Selatan,TikTok Shop,Kecantikan,Eye Cream Retinol,185000,1,10,18000,Selesai,GoPay,4
+ORD-063,2024-03-06,,Bekasi,Jawa Barat,Tokopedia,Elektronik,Keyboard Mechanical TKL,485000,1,0,0,Selesai,Transfer Bank,5
+ORD-064,2024-03-07,Maya Sari,Denpasar,Bali,Shopee,Rumah Tangga,Bantal Memory Foam,225000,2,,10000,Selesai,COD,4
+ORD-065,2024-03-08,Andi Rahman,Makassar,Sulawesi Selatan,Tokopedia,Fashion,Celana Jogger Pria,155000,2,5,18000,Dibatalkan,GoPay,
+ORD-066,2024-03-09,Vera Anggraini,Tangerang,Banten,Tokopedia,Makanan,Madu Hutan Murni 350gr,145000,1,0,8000,Selesai,OVO,5
+ORD-067,2024-03-10,Bram Nugroho,Yogyakarta,DI Yogyakarta,Shopee,Elektronik,Action Camera 4K,895000,1,10,0,Selesai,Transfer Bank,5
+ORD-068,2024-03-11,Susi Rahayu,Medan,Sumatera Utara,TikTok Shop,Kecantikan,BB Cream SPF Lokal,78000,3,,22000,Selesai,GoPay,3
+ORD-069,2024-03-12,Hendri Prakoso,Balikpapan,Kalimantan Timur,Tokopedia,Olahraga,Rompi Running Reflektif,195000,1,0,25000,Selesai,OVO,4
+ORD-070,2024-03-13,Putri Rahayu,Surabaya,Jawa Timur,Shopee,Rumah Tangga,Panci Presto 5L,445000,1,5,14000,Selesai,ShopeePay,5
+ORD-071,2024-03-14,Farhan Maulana,Jakarta,DKI Jakarta,TikTok Shop,Elektronik,Tripod Flexible Gorillapod,145000,2,10,0,Selesai,GoPay,4
+ORD-072,2024-03-15,Nani Suryani,Bandung,Jawa Barat,Tokopedia,Fashion,Cardigan Rajut Wanita,245000,1,,9000,Selesai,Transfer Bank,5
+ORD-073,2024-03-16,Edo Pratama,Bogor,Jawa Barat,Shopee,Makanan,Brownies Kukus Amanda,85000,3,0,12000,Selesai,COD,4
+ORD-074,2024-03-17,Yanti Kusumawati,Semarang,Jawa Tengah,TikTok Shop,Kecantikan,Sheet Mask Pack 10pcs,75000,2,15,9000,Selesai,GoPay,4
+ORD-075,2024-03-18,Danu Wicaksono,Depok,Jawa Barat,Tokopedia,Elektronik,Adaptor Multiport USB-C,225000,1,0,0,Selesai,OVO,5
